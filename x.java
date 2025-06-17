@@ -5,5 +5,6 @@ public class x {
         int z = 5;
         int result = x + y + z;
         System.out.println("The sum of x, y, and z is: " + result);
+	//זה רק נסיון קטן :)
     }
 }
